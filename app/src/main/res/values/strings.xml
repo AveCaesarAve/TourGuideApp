@@ -1,0 +1,44 @@
+<resources>
+    <string name="application_name">TourGuideApp</string>
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="textViewText">TextViewText</string>
+    <string name="button">MoreButton</string>
+    <string name="image_content">DefaultImage</string>
+
+    <string name="place1">Place to see title1</string>
+    <string name="place1_descr">Very long and boring item description</string>
+
+    <string name="place2">Place to see title2</string>
+    <string name="place2_descr">Very long and boring item description</string>
+
+    <string name="place3">Place to see title3</string>
+    <string name="place3_descr">Very long and boring item description</string>
+
+    <string name="attraction1">Local attraction title1</string>
+    <string name="attraction1_descr">Very long and boring item description</string>
+
+    <string name="attraction2">Local attraction title2</string>
+    <string name="attraction2_descr">Very long and boring item description</string>
+
+    <string name="attraction3">Local attraction title3</string>
+    <string name="attraction3_descr">Very long and boring item description</string>
+
+    <string name="monument1">Local Monument title1</string>
+    <string name="monument1_descr">Very long and boring item description</string>
+
+    <string name="monument2">Local Monument title2</string>
+    <string name="monument2_descr">Very long and boring item description</string>
+
+    <string name="monument3">Local Monument title3</string>
+    <string name="monument3_descr">Very long and boring item description</string>
+
+    <string name="eatout1">Eating out title1</string>
+    <string name="eatout1_descr">Very long and boring item description</string>
+
+    <string name="eatout2">Eating out title2</string>
+    <string name="eatout2_descr">Very long and boring item description</string>
+
+    <string name="eatout3">Eating out title3</string>
+    <string name="eatout3_descr">Very long and boring item description</string>
+
+</resources>

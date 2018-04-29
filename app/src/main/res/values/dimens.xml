@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mediumMargin">16dp</dimen>
+    <dimen name="smallMargin">8dp</dimen>
+    <dimen name="largeSizeText">18sp</dimen>
+    <dimen name="normalSizeText">14sp</dimen>
+    <dimen name="pager_layout_height">0dp</dimen>
+    <dimen name="pager_layout_width">0dp</dimen>
+</resources>
